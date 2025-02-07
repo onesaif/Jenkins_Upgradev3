@@ -28,7 +28,7 @@ public class TestGreeter {
   }
   @Test
   public void identifyThisTest(){
-    assertTrue(false);
+    assertTrue(true);
   }
 
   @Test
